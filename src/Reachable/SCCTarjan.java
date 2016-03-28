@@ -38,6 +38,7 @@ public class SCCTarjan {
         {
             if(state[i]==0)
                 dfsTarjan(i+1);
+            System.out.println("hehe");
         }
     }
 
